@@ -1,0 +1,63 @@
+{
+    "articles": [
+      {
+        "image": "images/news1.jpg",
+        "heading": "Unram Masuk 20 Kampus Terbaik 2023!",
+        "author": "Admin",
+        "tag": "Tag Name",
+        "content": "Unram masuk 20 besar kampus terbaik versi Times Higher Education (THE) Impact Rangkings 2023.",
+        "footerLink": "post/news1.html"
+      }
+    ],
+    "overview": [
+      {
+        "image": "images/news2.jpg",
+        "heading": "Demo Mahasiswa di Mapolda NTB",
+        "author": "",
+        "tag": "",
+        "content": "Sejumlah mahasiswa dan dosen Universitas Mataram (Unram) berunjuk rasa di Polda Nusa Tenggara Barat (NTB), Selasa (21/3/2023).",
+        "footerLink": "#"
+      },
+      {
+        "image": "images/news3.jpg",
+        "heading": "Arak-Arakan Sambut Wisawadan",
+        "author": "",
+        "tag": "",
+        "content": "Mahasiswa Fakultas Teknik Universitas Mataram mengadakan arak-arakan untuk menyambut wisudawan dan wisudawati yang telah menyelesaikan masa perkuliahannya",
+        "footerLink": "#"
+      },
+      {
+        "image": "images/news4.jpeg",
+        "heading": "Dies Natalis ke-60 Universitas Mataram",
+        "author": "",
+        "tag": "",
+        "content": "Rangkaian Dies Natalis ke-60 Unram diramaikan dengan jalan sehat, dengan titik kumpul di Lapangan Rektorat Unram. Ada juga lomba fashion show di gedung Dome Unram",
+        "footerLink": "#"
+      },
+      {
+        "image": "images/placeholder.png",
+        "heading": "Lorem Ipsum",
+        "author": "",
+        "tag": "",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet leo eu nibh euismod posuere sed eget magna. Curabitur leo mi, malesuada eu urna aliquet, ornare tincidunt enim.",
+        "footerLink": "#"
+      },
+      {
+        "image": "images/placeholder.png",
+        "heading": "Lorem Ipsum",
+        "author": "",
+        "tag": "",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet leo eu nibh euismod posuere sed eget magna. Curabitur leo mi, malesuada eu urna aliquet, ornare tincidunt enim.",
+        "footerLink": "#"
+      },
+      {
+        "image": "images/placeholder.png",
+        "heading": "Lorem Ipsum",
+        "author": "",
+        "tag": "",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet leo eu nibh euismod posuere sed eget magna. Curabitur leo mi, malesuada eu urna aliquet, ornare tincidunt enim.",
+        "footerLink": "#"
+      }
+    ]
+  }
+  

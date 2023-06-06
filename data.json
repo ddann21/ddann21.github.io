@@ -1,0 +1,39 @@
+{
+    "carousel": [
+      {
+        "number": "01",
+        "title": "Unram Masuk 20 Kampus Terbaik 2023!",
+        "subtitle": "",
+        "description": "Unram masuk 20 besar kampus terbaik versi Times Higher Education (THE) Impact Rangkings 2023. ",
+        "image": "images/slider-img.png",
+        "link": "post/news1.html"
+      },
+      {
+        "number": "02",
+        "title": "Demo Mahasiswa di Mapolda NTB",
+        "subtitle": "",
+        "description": "Sejumlah mahasiswa dan dosen Universitas Mataram (Unram) berunjuk rasa di Polda Nusa Tenggara Barat (NTB), Selasa (21/3/2023).",
+        "image": "images/slider-img.png",
+        "link": ""
+      },
+      {
+        "number": "03",
+        "title": "Arak-Arakan Sambut Wisawadan",
+        "subtitle": "",
+        "description": "Mahasiswa Fakultas Teknik Universitas Mataram mengadakan arak-arakan untuk menyambut wisudawan dan wisudawati yang telah menyelesaikan masa perkuliahannya",
+        "image": "images/slider-img.png",
+        "link": ""
+      },
+      {
+        "number": "04",
+        "title": "Dies Natalis ke-60 Universitas Mataram",
+        "subtitle": "",
+        "description": "Rangkaian Dies Natalis ke-60 Unram diramaikan dengan jalan sehat, dengan titik kumpul di Lapangan Rektorat Unram. Ada juga lomba fashion show di gedung Dome Unram",
+        "image": "images/slider-img.png",
+        "link": ""
+      }
+    ]
+  }
+
+  
+  
